@@ -4,7 +4,7 @@
 
 This lecture starts with how to understand Guassian elimination in terms of matrices.
 
-Firstly, we focus on some operation on the product of matrices.
+Firstly, we focus on some operations with the product of matrices.
 
 ## Inverse of a product
 
