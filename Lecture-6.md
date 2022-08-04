@@ -1,6 +1,6 @@
 # Lecture 6 Column Space and Null Space
 
-This lecture focuses on studying subspaces, including column spaces and null spaces of a matrix.
+This lecture focuses on studying subspaces, including column spaces and nullspaces of a matrix.
 
 ## Review of subspaces
 
