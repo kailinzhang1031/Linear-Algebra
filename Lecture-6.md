@@ -29,7 +29,6 @@ Geometrily, only three columns cannot fill the entire four dimensional vector sp
 Next, we ask: Big question: what $\mathbf{b}$'s allow $A\mathbf{x}=\mathbf{b}$ to be solved?
 
 By considering $\mathbf{b}=A\mathbf{x}$, we can get the following conclusion.
-
 - The system of linear equatiion $A\mathbf{x}=\mathbf{b}$ is *solvable* exactly when $\mathbf{b}$ is a vector in the column space of $A$.
 
 After that, we can further study the column space of $A$. In the case of the lecture, the columns of $A$ are not all indepen and we can choose 2 columns as pivot columns and another column is the non-pivot column. We can get that the column space of our matrix $A$ is a two dimensional subspace of $\mathbb{R}^{4}$.
@@ -44,7 +43,6 @@ The nullspace of a matrix $A$ is the collectio of all solutions $\mathbf{x}=\beg
     x_3 \\
 \end{bmatrix}$ to the equation
 $$A\mathbf{x}=0 \tag{6-1}$$
-
 
 Here we can also explore properties of the nullspace:
 -The column space of the matrix in our example was a subspace of $\mathbb{R}^{4}$.
