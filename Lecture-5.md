@@ -1,4 +1,4 @@
-# Lecture 5 Transposes, Permutations, Spaces $\R ^{n}$
+# Lecture 5 Transposes, Permutations, Spaces $\mathbb{R}^{n}$
 
 This lecture firstly discusses properties of Permutations and Transposes, then introduces Vector spaces and their subspaces.
 
@@ -28,13 +28,13 @@ The product $R^{T}R$ is always symmetric because it fits expression (5-2).
 
 Addition and Multiplication are two basic operations of vectors. They forms linear combinations of vectors. All linear combinations forms a vector space. These combinations follow the **rules** of a vector space.
 
-A typical vector space is $\R^{2}$. 
+A typical vector space is $\mathbb{R}^{2}$. 
 
 - This vecor space is the set of all vectors with excatly **two real number components**.
-- This vector space can be dipicted and we cll $\R^{2}$ the "$x-y$ plane".
+- This vector space can be dipicted and we cll $\mathbb{R}^{2}$ the "$x-y$ plane".
 
 
-This can be generalized to $\R^{n}$.
+This can be generalized to $\mathbb{R}^{n}$.
 
 
 ## Closure
@@ -50,7 +50,7 @@ After defining spaces, we try to find a smaller collection of vectors that forms
 
 In analogy with properties of space, we can explore further on properties of subspaces. Here we analyse some base cases.
 
-The subspaces of $\R^{2}$ are:
+The subspaces of $\mathbb{R}^{2}$ are:
 
 1. all of $R^{2}$,
 
@@ -61,9 +61,9 @@ The subspaces of $\R^{2}$ are:
 
 3. the zero vector alone $(Z)$.
 
-The subspaces of $\R^{3}$ are:
+The subspaces of $\mathbb{R}^{3}$ are:
 
-1. all of $\R^{3}$,
+1. all of $\mathbb{R}^{3}$,
 2. any plane through the origin,
 3. any line through the origin, and
 4. the zero vector alone $(Z)$.
@@ -72,6 +72,6 @@ The subspaces of $\R^{3}$ are:
 
 Using definitions above, we can oberserve $A$ in a new way.
 
-Given a matrix $A$ with columns in $\R^{3}$, 1)these columns and 2)all their linear combinations form a subspace of $\R^{3}$.
+Given a matrix $A$ with columns in $\mathbb{R}^{3}$, 1)these columns and 2)all their linear combinations form a subspace of $\mathbb{R}^{3}$.
 
 Next, we ask: How to understand the equation $A\mathbb{x}=\mathbb{b}$ in terms of subspaces and the column space of $A$?

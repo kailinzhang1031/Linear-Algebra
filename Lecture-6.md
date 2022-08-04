@@ -7,7 +7,7 @@ This lecture focuses on studying subspaces, including column spaces and null spa
 At the begining, we need to make some basic rules of subspaces clear:
 
 - A vector space must follow the rule of linear combination.
-- Given a plane $P$ and a line $L$, which are subspaces of $\R^{3}$, the union $P\cup L$ is not a subspace while the intersection $P\cap L$ is a subspace.
+- Given a plane $P$ and a line $L$, which are subspaces of $\mathbb{R}^{3}$, the union $P\cup L$ is not a subspace while the intersection $P\cap L$ is a subspace.
 
 ## Column space of $A$
 
@@ -32,7 +32,7 @@ By considering $\mathbf{b}=A\mathbf{x}$, we can get the following conclusion.
 
 - The system of linear equatiion $A\mathbf{x}=\mathbf{b}$ is *solvable* exactly when $\mathbf{b}$ is a vector in the column space of $A$.
 
-After that, we can further study the column space of $A$. In the case of the lecture, the columns of $A$ are not all indepen and we can choose 2 columns as pivot columns and another column is the non-pivot column. We can get that the column space of our matrix $A$ is a two dimensional subspace of $\R^{4}$.
+After that, we can further study the column space of $A$. In the case of the lecture, the columns of $A$ are not all indepen and we can choose 2 columns as pivot columns and another column is the non-pivot column. We can get that the column space of our matrix $A$ is a two dimensional subspace of $\mathbb{R}^{4}$.
 
 ## Nullspace of $A$
 
@@ -47,8 +47,8 @@ $$A\mathbf{x}=0 \tag{6-1}$$
 
 
 Here we can also explore properties of the nullspace:
--The column space of the matrix in our example was a subspace of $\R^{4}$.
-- The nullspace of $A$ is a subspace of $\R^{3}$.
+-The column space of the matrix in our example was a subspace of $\mathbb{R}^{4}$.
+- The nullspace of $A$ is a subspace of $\mathbb{R}^{3}$.
 - The nullspace of $A$ still fits the rules of linear combination.
 - The nullspace $N(A)$ consists of all multiples of $\begin{bmatrix}
     1 \\
@@ -66,7 +66,7 @@ After setting $\mathbf{b}=\mathbf{0}$, we ask: can we solve the equation $A\math
 
 At this time, we need to consider $\mathbf{x}$. The solutions to the equation may form a subspace.
 
-The lecture provides an exmaple that the solutions to the equation do not form a subspace. The zero vector is not a solution to this equation. The solutions form a line in $\R^{3}$ without the origin $\begin{bmatrix}
+The lecture provides an exmaple that the solutions to the equation do not form a subspace. The zero vector is not a solution to this equation. The solutions form a line in $\mathbb{R}^{3}$ without the origin $\begin{bmatrix}
     0 \\
     0 \\
     0
