@@ -1,4 +1,4 @@
-# Lecture 5 Transposes, Permutations, Spaces $R^{n}$
+# Lecture 5 Transposes, Permutations, Spaces $\R^{n}$
 
 This lecture firstly discusses properties of Permutations and Transposes, then introduces Vector spaces and their subspaces.
 
