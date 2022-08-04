@@ -6,7 +6,7 @@ This lecture proposes a topic, which is "How to solve Systems of Linear Equation
 
 According to what we have learnt, $Ax=b$ is the base case when we get in touch with equations. For the convenience of future, we set equation above as $A_1x_1=b_1$. $A_1x_1=b_1$ is known as Linear Equation with One Unkown, which contains one unknown and has the highest power of 1. We name it as Equation 1.
 
-We can expand the case above. Firstly, we introduce Equation 2 in the same form of euqation 1: $A_2x_2=b_2$. Secondly, we combine these two equations and get a system, which is known as Linear Equations with Two Unkowns: 
+We can expand the case above. Firstly, we introduce Equation 2 in the same form of Equation 1: $A_2x_2=b_2$. Secondly, we combine these two equations and get a system, which is known as Linear Equations with Two Unkowns: 
 $$A_1x_1=b_1, \\ A_2x_2=b_2 \tag{1-1}$$
 
 An intuitive try is that, can we observe equations in a different way? Moreover, can we visualize these equations to help us understand?
