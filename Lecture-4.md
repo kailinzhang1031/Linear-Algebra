@@ -28,7 +28,7 @@ This leads to the factorization of $A=LU$. This process it the inverse operation
 - $U$ is upper triangular with pivots on the diagonal.
 - $L$ is lower triangular and har ones on the diagonal.
 
-This factorization can be further written with a diagnal matrix whose entries are the pivots:
+This factorization can be further written with a *diagnal matrix* whose entries are the pivots:
 
 $$A = LDU^{'} \tag{4-2}$$
 
