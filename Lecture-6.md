@@ -72,3 +72,6 @@ The lecture provides an exmaple that the solutions to the equation do not form a
     0
 \end{bmatrix}$.
 
+Comparing the two subspaces, we can conclude that
+- Column spaces are buit up by column vecotors of $A$.
+- Nullspaces are built up by solutions $\mathbf{x}$ to euqation $A\mathbf{x}=\mathbf{0}$.
