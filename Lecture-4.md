@@ -30,7 +30,7 @@ This leads to the factorization of $A=LU$. This process it the inverse operation
 
 This factorization can be further written with a diagnal matrix whose entries are the pivots:
 
-$$A = LDU^{-1} \tag{4-2}$$
+$$A = LDU^{'} \tag{4-2}$$
 
 ## How expensive is elimination?
 
