@@ -49,10 +49,7 @@ We can further simplify $U$ to a matrix $R$ in reduced row echelon form (rref fo
 $$R\mathbf{x}=\mathbf{0}\tag{7-2}$$
 
 By exchanging some columns, $R$ can be convert into
-$$R=\begin{bmatrix}
-    I & F \\
-    0 & 0
-\end{bmatrix}$$
+$$R=\begin{bmatrix}I & F \\ 0 & 0 \end{bmatrix}$$
 
 - $F$ denotes free columns.
 - Here $I$ is an $r\times r$ square matrix.
