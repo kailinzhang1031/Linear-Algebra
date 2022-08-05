@@ -1,4 +1,4 @@
 $\begin{bmatrix}
-    0 \
+    0 \n
     0
 \end{bmatrix}$
