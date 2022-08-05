@@ -1,4 +1,4 @@
-$\begin{bmatrix*}
+$\begin{bmatrix}
     0 \
     0
-\end{bmatrix*}$
+\end{bmatrix}$
