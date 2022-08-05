@@ -94,7 +94,7 @@ If $r=m=n$ is the number of pivots of $A$, then
 
 If $R$ is in row reduced form with pivot columns first(rref), the table below summarized our results.
 
-| |$r=m=n$ | $r=n<m$ |$ r=m<n$ | $r<m, r<n$ |
+| |$r=m=n$ | $r=n&<m$ |$ r=m&<n$ | $r&<m, r&<n$ |
 |:-:|:-:|:-:|:-:|:-:|
 |$R$|$I$|$\begin{bmatrix}I \\0\end{bmatrix}$|$\begin{bmatrix}I&F\end{bmatrix}$|$\begin{bmatrix}I & F \\0 & 0\end{bmatrix}$|
 |# solutions to $A\mathbf{x}=\mathbf{b}$| $1$ | $0$ or $1$ | infinitely many | $0$ or infinitely many |
